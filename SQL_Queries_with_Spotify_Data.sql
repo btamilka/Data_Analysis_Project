@@ -75,7 +75,7 @@ LIMIT 10;
 #Billie Eilish, Drake, etc.alter
 #===================================================
 
-# Find artis whose youtube likes are more than their Tiktok likes.
+# Find artis whose youtube likes are more than their AVERAGE Tiktok likes.
 # Limit this to albums realesed after 31/12/2019
 SELECT Album_Name, Artist, TikTok_Likes, YouTube_Likes
 FROM tsql.power_query
