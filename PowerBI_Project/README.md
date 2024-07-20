@@ -7,4 +7,4 @@ I analysed (visaulisation) the performance of different sales managers, agents, 
 Performance is measured by revenue and deals won, deals lost, and prospecting deals.
 Relationships between key metris visualised using clustered bar charts, donut chart, and tables.
 
-![Alt text](URL-to-image)
+![Alt text](https://github.com/btamilka/Data_Analysis_Project/blob/main/PowerBI_Project/Visuals_Power%20BI%20Project.pdf)
