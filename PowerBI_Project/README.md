@@ -6,3 +6,5 @@ I analysed (visaulisation) the performance of different sales managers, agents, 
 ## Key metrics and visualisation:
 Performance is measured by revenue and deals won, deals lost, and prospecting deals.
 Relationships between key metris visualised using clustered bar charts, donut chart, and tables.
+
+![Alt text](URL-to-image)
